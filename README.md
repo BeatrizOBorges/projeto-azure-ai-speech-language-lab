@@ -1,0 +1,1 @@
+# projeto-azure-ai-speech-language-lab
