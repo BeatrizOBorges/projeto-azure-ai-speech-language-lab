@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Azure AI – Speech Studio & Language Studio Lab
 
 # Azure AI – Speech Studio & Language Studio Lab
@@ -42,4 +43,6 @@ O projeto faz parte do desafio proposto pela [DIO](https://www.dio.me/).
 - **Nome:** Beatriz Oliveira Borges  
 - **GitHub:** [BeatrizOBorges](https://github.com/BeatrizOBorges)  
 - **LinkedIn:** [Beatriz Borges](https://www.linkedin.com/in/beatriz-borges-24a776268/)
+=======
+>>>>>>> 245d57b331ae2ec4abb49606597d6e8f664fc9dd
 
