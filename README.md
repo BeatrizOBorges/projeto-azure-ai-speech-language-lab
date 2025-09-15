@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Azure AI – Speech Studio & Language Studio Lab
-
 # Azure AI – Speech Studio & Language Studio Lab
 
 ## 🎯 Objetivo do Desafio
@@ -39,10 +36,10 @@ O projeto faz parte do desafio proposto pela [DIO](https://www.dio.me/).
 ![Speech Studio – Teste Fala para Texto](./images/speech-demo.png)
 
 ---
+
 ## 👤 Autor
 - **Nome:** Beatriz Oliveira Borges  
 - **GitHub:** [BeatrizOBorges](https://github.com/BeatrizOBorges)  
 - **LinkedIn:** [Beatriz Borges](https://www.linkedin.com/in/beatriz-borges-24a776268/)
-=======
->>>>>>> 245d57b331ae2ec4abb49606597d6e8f664fc9dd
+
 
